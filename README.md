@@ -6,5 +6,12 @@ Full credit going to Professor Candice Benbow of Rutgers for starting [#Lemonade
 
 All I've done is migrate her work over to a Github repo for my own tracking purposes.
 
+## Contents
+
+- [Black Feminist Studies](black-feminist.md)
+- [Poetry & Photography](poetry.md)
+- [Music](music.md)
+- [Theatre, Film & Documentary](film.md)
+
 ## Thanks
 Professor Benbow and all the phenomenal black women who contributed to this project. If you would like to show your gratitude to her, consider [making a donation](https://www.paypal.me/CandiceBenbow) via PayPal.
