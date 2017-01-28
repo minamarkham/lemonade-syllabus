@@ -1,0 +1,24 @@
+# Music
+
+- [ ] "Acoustic Soul" – india.arie
+- [ ] "Testimony: Volumes 1 and 2" – india.arie
+- [ ] "Songversation" – india.arie
+- [ ] "Voyage to India" – india.arie
+- [ ] "Mama's Gun" – Erykah Badu
+- [ ] "Tomorrow is My Turn" – Rhiannon Giddens
+- [x] "The Miseducation of Lauryn Hill" – Lauryn Hill
+- [ ] "Ibeyi" – Ibeyi
+- [ ] "Kina" – Kina
+- [x] "Janet" – Janet Jackson
+- [ ] "Gospels, Spirituals, and Hymns" – Mahalia Jackson
+- [ ] "Black Girl Magic" – Chrisette Michelle
+- [ ] "The Oscillations: Triange and Sine" – Muhsinah
+- [x] "U.N.I.T.Y." – Queen Latifah
+- [ ] "Beautiful Life" – Dianne Reeves
+- [x] "None of Your Business" – Salt N Pepa
+- [ ] "The Pastel Blues" – Nina Simone
+- [ ] "The Light of the Sun" – Jill Scott
+- [ ] "WOMAN" – Jill Scott
+- [ ] "The Lagos Music Salon" – Somi
+- [ ] "Still on This Journey" – Sweet Honey in the Rock
+- [ ] "Between Friends" – Tamia
